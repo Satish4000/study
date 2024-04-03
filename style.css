@@ -1,0 +1,536 @@
+
+
+.start
+{
+    height: 400px;
+    width: 100%;
+    border: 2px solid red;
+}
+
+.left
+{
+    border: 2px solid red;
+    height: 370px;
+    width: 45%;
+    float: left;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+
+.left h1{
+    font-size: 45px;
+}
+
+.right
+{
+    border: 2px solid red;
+    height: 370px;
+    width: 45%;
+    float: left;
+    margin-left: 30px;
+    margin-top: 10px;
+
+}
+
+.oye
+{
+    float: left;
+    height: 30px;
+    width: 20%;
+margin-left: 20px;
+
+}
+.bye h6
+{
+    font-size: 15px;
+    margin-top: 7px;
+}
+
+.right img
+{
+    height: 360px;
+    width: 70%;
+    border-radius: 1000px;
+    margin-left: 70px;
+}
+
+
+.second
+{
+    border: 2px solid red;
+    height: 400px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.para
+{
+
+    border: 1px solid red;
+    height: 150px;
+    width: 70%;
+margin-left: 210px;
+text-align: center;
+margin-top: 10px;
+}
+
+
+.one
+{
+    border: 2px solid grey;
+    height: 150px;
+    width: 30%;
+    float: left;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.two
+{
+    border: 2px solid grey;
+    height: 150px;
+    width: 30%;
+    float: left;
+    margin-left: 47px;
+    margin-top: 5px;
+
+
+}
+.three
+{
+    border: 2px solid grey;
+    height: 150px;
+    width: 30%;
+    float: left;
+    margin-left: 47px;
+    margin-top: 5px;
+
+
+}
+
+.one img
+{
+    height: 150px;
+    width: 100%;
+    border-radius: 100px;
+}
+
+.two img
+{
+    height: 130px;
+    width: 100%;
+    border-radius: 100px;
+}
+
+.three img
+{
+    height: 130px;
+    width: 100%;
+    border-radius: 100px;
+}
+
+.wow 
+{
+    float: left;
+}
+
+.ahaa
+{
+    margin-top: 40px;
+}
+
+.but button
+{
+    background-color: blue;
+    border-radius: 30px;
+    margin-top: 30px;
+    float: left;
+    margin-left: 500px;
+}
+
+.btn button
+{
+    border-radius: 30px;
+    margin-top: 25px;
+    
+}
+
+
+/* section33333333333333333333333333333333333333333333333333333333333333333/ */
+
+.vammo
+{
+    border: 2px dotted red;
+    height: 400px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.boy
+{
+    border: 2px solid grey;
+    height: 370px;
+    width: 45%;
+    float: left;
+    text-align: center;
+    margin-left: 20px;
+}
+
+.girl
+{
+    border: 2px solid grey;
+    height: 370px;
+    width: 45%;
+    float: left;
+    margin-left: 80px;
+
+}
+
+.girl img
+{
+    height: 370px;
+}
+
+
+
+
+/* /* section444444444444444444444444444444444444444444444444444444444444444 */
+
+.boss
+{
+    border: 2px double red;
+    height: 420px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.heading
+{
+    text-align: center;
+}
+
+.card11
+{
+    border: 2px solid red;
+    height: 300px;
+    width: 20%;
+    text-align: center;
+    float: left;
+    margin-left: 80px;
+
+}
+
+.card11 img
+{
+    height: 120px;
+    width: 40%;
+    border-radius: 100px;
+    margin-top: 10px;
+}
+
+
+.card22
+{
+    border: 2px solid red;
+    height: 300px;
+    width: 20%;
+    text-align: center;
+    float: left;
+    margin-left: 20px;
+
+
+}
+
+.card22 img
+{
+    height: 120px;
+    width: 40%;
+    border-radius: 100px;
+    margin-top: 10px;
+}
+
+
+.card33
+{
+    border: 2px solid red;
+    height: 300px;
+    width: 20%;
+    text-align: center;
+    float: left;
+    margin-left: 20px;
+
+
+}
+
+.card33 img
+{
+    height: 120px;
+    width: 40%;
+    border-radius: 100px;
+    margin-top: 10px;
+}
+
+
+
+.card44
+{
+    border: 2px solid red;
+    height: 300px;
+    width: 20%;
+    text-align: center;
+    float: left;
+    margin-left: 20px;
+
+
+    
+
+}
+
+.card44 img
+{
+    height: 120px;
+    width: 40%;
+    border-radius: 100px;
+    margin-top: 10px;
+}
+
+
+/* section5555555555555555555555555555555555555555555555555555555555555 */
+
+
+.mobile
+{
+    border: 2px groove red;
+    height: 450px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+
+.card1 
+{
+    border: 1px solid grey;
+    height: 350px;
+    width: 30%;
+    float: left;
+    margin-left: 30px;
+}
+
+.card1 button
+{
+    width: 30%;
+   background-color: transparent;
+   border-radius: 20px;
+   margin-left: 100px;
+}
+
+.card2 
+{
+    border: 1px solid grey;
+    height: 350px;
+    width: 30%;
+    float: left;
+    margin-left: 30px;
+}
+
+.card2 img
+{
+    height: 350px;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+.card3 
+{
+    border: 1px solid grey;
+    height: 350px;
+    width: 30%;
+    float: left;
+    margin-left: 30px;
+}
+
+.card3 img
+{ height: 350px;
+    width: 100%;
+
+}
+
+
+
+/* section666666666666666666666666666666666666666666666666666666666 */
+
+.bottle
+{
+    border: 2px solid red;
+    height: 500px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.cap1
+{
+    border: 1px solid grey;
+    height: 250px;
+    width: 60%;
+    margin-left: 300px;
+    text-align: center;
+
+}
+.logo
+{
+    float: left;
+    margin-left: 250px;
+    margin-top: 10px;
+
+}
+
+.logo img
+{
+    height: 70px;
+    width: 100%;
+    
+}
+.matter
+{
+    float: left;
+    margin-top: 20px;
+}
+
+.matter p
+{
+font-size: 10px;
+
+}
+
+
+
+
+
+
+.cap2
+{
+    border: 2px solid grey;
+    height: 200px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.small p
+{
+    font-size: 18px;
+}
+
+.small
+{
+    border: 1px solid red;
+    height: 100px;
+    width: 40%;
+    margin-top: 30px;
+    float: left;
+    margin-left: 130px;
+}
+
+.img img
+{
+    height: 140px;
+    width: 110%;
+    border-radius: 100px;
+}
+.img
+{
+    /* border: 1px solid green; */
+    height: 100px;
+    width: 10%;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+
+}
+
+
+.bottom
+{
+    border: 1px solid red;
+    height: 100px;
+    width: 20%;
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+
+.bottom button
+{
+    margin-top: 40px;
+    margin-left: 50px;
+    border-radius: 20px;
+    background-color: blue;
+}
+
+
+
+/* section7777777777777777777777777777777777777777777777777777 */
+
+.special
+{
+    border: 2px solid red;
+    height: 400px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.vid
+{
+    border: 1px solid green;
+    height: 380px;
+    width: 40%;
+    margin-top: 10px;
+    margin-left: 50px;
+    float: left;
+}
+
+.vid iframe
+{
+    height: 370px;
+    width: 100%;
+    margin-top: 5px;
+}
+
+
+.content
+{
+    border: 1px solid green;
+    height: 380px;
+    width: 40%;
+    float: left;
+margin-left: 100px;
+margin-top: 10px;
+
+}
+
+.sub2
+{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.sub3
+{
+    margin-left: 20px;
+}
+.sub
+{
+    margin-left: 20px;
+    margin-top: 20px;
+}
